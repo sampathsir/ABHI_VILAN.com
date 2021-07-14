@@ -13,7 +13,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 
 ---
 
-# Dont Forget To [🌟Star](https://github.com/FayasNoushad/Simple-Portfolio/fork) and [🍴Fork](https://github.com/FayasNoushad/Simple-Portfolio/fork) This Repo 💙
+# Dont Forget To [🌟Star](https://github.com/FayasNoushad/fayasnoushad.github.io/fork) and [🍴Fork](https://github.com/FayasNoushad/fayasnoushad.github.io/fork) This Repo 💙
 
 ---
 
@@ -23,7 +23,7 @@ A simple single page portfolio which is easy to edit and easy to deploy.
 ---
 
 # Make Your Edits
-- Edit [index.html](https://github.com/FayasNoushad/Simple-Portfolio/tree/master/index.html) file according to your preference.
+- Edit [index.html](https://github.com/FayasNoushad/fayasnoushad.github.io/tree/master/index.html) file according to your preference.
 - Change or edit links according to you.
 
 ---
@@ -49,7 +49,7 @@ git push origin [branch_name]
 # Deploy Simple-Portfolio on Netlify
 
 ## Click on below button to deploy it on Netlify
-[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/FayasNoushad/Simple-Portfolio)
+[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/FayasNoushad/fayasnoushad.github.io)
 
 ---
 
