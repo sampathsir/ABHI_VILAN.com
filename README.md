@@ -49,7 +49,7 @@ git push origin [branch_name]
 # Deploy Simple-Portfolio on Netlify
 
 ## Click on below button to deploy it on Netlify
-[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/FayasNoushad/fayasnoushad.github.io)
+[![Netlify Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sampathsir/fayasnoushad.github.io)
 
 ---
 
